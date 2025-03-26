@@ -1,0 +1,10 @@
+C:\Academy\Builds\D5Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\Bin\UsrRealty.dll
+C:\Academy\Builds\D5Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\Bin\UsrRealty.pdb
+C:\Academy\Builds\D5Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.csproj.AssemblyReference.cache
+C:\Academy\Builds\D5Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\Builds\D5Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.AssemblyInfoInputs.cache
+C:\Academy\Builds\D5Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.AssemblyInfo.cs
+C:\Academy\Builds\D5Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.csproj.CoreCompileInputs.cache
+C:\Academy\Builds\D5Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.sourcelink.json
+C:\Academy\Builds\D5Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.dll
+C:\Academy\Builds\D5Dev\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealty\Files\obj\Release\UsrRealty.pdb

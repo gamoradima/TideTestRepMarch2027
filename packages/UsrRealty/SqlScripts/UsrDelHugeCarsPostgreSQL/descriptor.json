@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "000f94f4-94c8-277a-20f0-64ded85dcc93",
+    "Name": "UsrDelHugeCarsPostgreSQL",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1742401193000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

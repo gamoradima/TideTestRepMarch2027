@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "1cf98239-73b3-1a80-5525-064533b2f124",
+    "Name": "UsrDelHugeCars",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1742400798000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

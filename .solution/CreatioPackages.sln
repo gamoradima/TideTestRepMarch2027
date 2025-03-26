@@ -1,0 +1,15 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8a8fa117-4bab-4d82-b844-ead042b9de66}") = "UsrRealty", "..\packages\UsrRealty\Files\UsrRealty.csproj", "{c855923c-3364-49de-b4e3-b1c268262214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+			{c855923c-3364-49de-b4e3-b1c268262214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{c855923c-3364-49de-b4e3-b1c268262214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{c855923c-3364-49de-b4e3-b1c268262214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{c855923c-3364-49de-b4e3-b1c268262214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

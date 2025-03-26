@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "4c684f8b-423a-f44b-3f98-8be5902cb8d4",
+    "Name": "EnableRoodAdminTrigger",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1742569871000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
