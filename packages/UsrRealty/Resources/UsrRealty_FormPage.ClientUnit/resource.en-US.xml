@@ -21,7 +21,7 @@
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_gpwlruu_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.NumberInput_wlf3bwi_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0 USD" />
-			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="RENAMED TWICE" />
+			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="RENAMED AGAIN" />
 		</Items>
 	</Group>
 </Resources>
