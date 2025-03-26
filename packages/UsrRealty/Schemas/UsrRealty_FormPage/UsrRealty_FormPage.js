@@ -407,7 +407,7 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SCHEMA
 				"name": "City",
 				"values": {
 					"layoutConfig": {
-						"column": 2,
+						"column": 1,
 						"row": 4,
 						"colSpan": 1,
 						"rowSpan": 1
