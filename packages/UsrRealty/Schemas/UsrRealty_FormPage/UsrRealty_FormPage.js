@@ -352,12 +352,6 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SCHEMA
 				"operation": "insert",
 				"name": "Country",
 				"values": {
-					"layoutConfig": {
-						"column": 1,
-						"row": 3,
-						"colSpan": 1,
-						"rowSpan": 1
-					},
 					"type": "crt.ComboBox",
 					"label": "$Resources.Strings.PDS_UsrCountry_q2eiqn5",
 					"labelPosition": "auto",
@@ -369,7 +363,13 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SCHEMA
 					"readonly": false,
 					"placeholder": "",
 					"tooltip": "",
-					"valueDetails": null
+					"valueDetails": null,
+					"layoutConfig": {
+						"column": 1,
+						"row": 3,
+						"colSpan": 1,
+						"rowSpan": 1
+					}
 				},
 				"parentName": "GeneralInfoTabContainer",
 				"propertyName": "items",
